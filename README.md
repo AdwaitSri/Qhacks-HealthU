@@ -16,7 +16,7 @@ The project is a chatbot that helps people access essential health information f
   * Bootstrap CSS Libraries
   * HttpResponse
 
-##Running the Code
+## Running the Code
 
 You can run the code by downloading the code on your system and running only the views.py file. Run command `cd .\chat_bot\`. Following which run the views.py file and a new terminal interface will open up allowing you to effectively communicate with the chatbot. 
 
