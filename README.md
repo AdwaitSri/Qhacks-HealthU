@@ -25,3 +25,6 @@ Kindly view some of our sample questions in the json files and ask those questio
 ## Future Scope:
 * Implementing a user friendly interface
 * Working on making the chatbot dynamic
+* Enabling live doctor chat support
+* Nearby healthcare support centre details
+* Medical newsletters
