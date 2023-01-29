@@ -1,0 +1,244 @@
+[
+	{
+	  "main category":"1.1",
+	  "question":"Hi, I have a health issue that I need help with",
+	  "answer": "Hello there, I am here to help you out with any health related issues."
+	},
+	{
+	  "main category":"1.2",
+	  "question":"I sprained my ankle today, what can I do?",
+	  "answer":"Icing your leg will help strengthen your ligaments and reduce the swelling in your leg. This is a rather mild solution however, if you feel that any movement causes you a lot of pain, please visit a doctor. Keeping the injured leg elevated will help the blood flow too."
+	},
+	{
+	  "main category":"1.3",
+	  "question":"I feel a pull in my stomach, not too sure why.",
+	  "answer":"A pain in the stomach can originate from multiple causes. It can be indigestion or unhealthy food habits. A few over the counter medicines can relieve this pain if it is mild and having better food habits will help too. Try reducing fatty foods and chewing your food thoroughly while eating. Finally, please do visit a doctor if the following issues are being observed as they are severe symptoms: Blood when you have a bowel movement,Severe abdominal pain, Heartburn not relieved by antacids, Unintended weight loss, Ongoing vomiting or diarrhea."
+  
+	},
+	{
+	  "main category":"1.4",
+	  "question":"What medicines would help relieve mild stomach aches?",
+	  "answer":"Purchasing medicines without a prescription is never recommended. However, the following can be taken in small amounts without any harm for temporary relief: For gas pain, Mylanta, Gas-X can help get rid of it. For heartburn, try an antacid. For constipation, a mild stool softener or laxative may help get things moving again. For cramping from diarrhea, medicines that have loperamide might make you feel better."
+  
+	},
+	{
+	  "main category":"1.5",
+	  "question":"Where can I get immediate care? I have a severe symptom",
+	  "answer":"Please call 911 immediately to get urgent care."
+	},
+	
+	{
+		"main category":"1.1",
+		"question":"Hi, I have a health issue that I need help with",
+		"answer": "Hello there, I am here to help you out with any health related issues."
+	  },
+	  {
+		"main category":"1.2",
+		"question":"I sprained my ankle today, what can I do?",
+		"answer":"Icing your leg will help strengthen your ligaments and reduce the swelling in your leg. This is a rather mild solution however, if you feel that any movement causes you a lot of pain, please visit a doctor. Keeping the injured leg elevated will help the blood flow too."
+	  },
+	  {
+		"main category":"1.3",
+		"question":"I feel a pull in my stomach, not too sure why.",
+		"answer":"A pain in the stomach can originate from multiple causes. It can be indigestion or unhealthy food habits. A few over the counter medicines can relieve this pain if it is mild and having better food habits will help too. Try reducing fatty foods and chewing your food thoroughly while eating. Finally, please do visit a doctor if the following issues are being observed as they are severe symptoms: Blood when you have a bowel movement,Severe abdominal pain, Heartburn not relieved by antacids, Unintended weight loss, Ongoing vomiting or diarrhea."
+	
+	  },
+	  {
+		"main category":"1.4",
+		"question":"What medicines would help relieve mild stomach aches?",
+		"answer":"Purchasing medicines without a prescription is never recommended. However, the following can be taken in small amounts without any harm for temporary relief: For gas pain, Mylanta, Gas-X can help get rid of it. For heartburn, try an antacid. For constipation, a mild stool softener or laxative may help get things moving again. For cramping from diarrhea, medicines that have loperamide might make you feel better."
+	
+	  },
+	  {
+		"main category":"1.5",
+		"question":"Where can I get immediate care? I have a severe symptom",
+		"answer":"Please call 911 immediately to get urgent care."
+	  },
+	
+	  {
+		"main category":"1.7",
+		"question":"I feel a bad ache in my teeth",
+		"answer":"Toothache could be caused due to cavities caused by food stuck in between your teeth or the growth of a wisdom tooth in the back of your mouth."
+	  },
+	  {
+		"main category":"2.1",
+		"question":"I feel pain in my teeth in the back of my mouth",
+		"answer":"This is most likely a wisdom tooth growing or a puss in the back of your mouth growing because of food debris. A dentist visit is highly recommended. Excavation of wisdom teeth is quite common as many times there isn’t enough space for the teeth to grow."
+	
+	  },
+	  {
+		"main category":"2.2",
+		"question":"How do I take better care of my teeth?",
+		"answer":"Gently brush your teeth on all sides with a soft-bristle brush and fluoride toothpaste. Replace your toothbrush every 3 to 4 months. Use small circular motions and short back-and-forth strokes. Brush carefully and gently along your gum line. Lightly brush your tongue or use a tongue scraper to help keep your mouth clean. Clean between your teeth with dental floss, pre threaded flossers, a water flosser, or a similar product. This removes plaque and leftover food that a toothbrush can't reach. Rinse after you floss."
+	  },
+	  {
+		"main category":"2.3",
+		"question":"I feel depressed",
+		"answer":"Depression can be very tricky to deal with. Do not hesitate to reach out to people you trust about this issue and talk about the small things that make you feel out of touch with yourself. Going for a walk and viewing nature helps in calming your brain down. You can also get in contact with genuine helplines provided by the government at: 1-888-668-6810"
+	  },
+	
+	
+	{
+		"main_category":"1.17",
+		"question":"How do I get rid of a hangover?",
+		"answer":" Time is the only sure cure for a hangover. In the meantime, here are a few things you can do to help yourself feel better. Sip water or fruit juice to prevent dehydration. Have a snack. Bland foods, such as toast and crackers, may boost your blood sugar and settle your stomach. Go back to bed. If you  long enough, your hangover may be gone when you awaken."
+	},
+	
+	{
+		"main category":"3.1",
+		"question":"Why wont my hiccups stop?",
+		"answer":"Various triggers can cause hiccups. The most common cause is bloating of the stomach due to drinking a carbonated drink or eating a large meal. There are many ways to get rid of hiccups. Some ways are as follows: Practice measured breathing or try hugging your knees."
+	  },
+	  {
+		"main category":"3.2",
+		"question":"I feel unwell",
+		"answer":"Please describe some of your symptoms. I will try my best to help"
+	  },
+	  {
+		"main category":"3.12",
+		"question":"I have fever",
+		"answer":"Take ample rest and drink plenty of fluids. Consider taking over the counter Acetamenophin/Paracetamols to alleviate your symptoms.Incase the fever does not go away after three days Please see a doctor. "
+	  },
+	  {"main category":"3.15",
+	  	"question":"My body temperatue is above 99F",
+		"answer":"Take ample rest and drink plenty of fluids. Consider taking over the counter Acetamenophin/Paracetamols to alleviate your symptoms.Incase the fever does not go away after three days Please see a doctor. "
+	},
+	{
+		"main category":"3.16",
+		"question":"I cant sleep",
+		"answer":"Try getting up for a short time. Start by trying to take your mind off any racing thoughts. Avoid technology and caffeine"
+
+	},
+	{
+		"main category":"3.17",
+		"question":"I have cold",
+		"answer":"Take rest drink plenty of fluids. Avoid cold drinks and consider taking vitamin C supplements to help a speedy recovery"
+	},
+	{
+		"main category":"3.18",
+		"question":"What are the sympots of a concussion?",
+		"answer":"Concussions are conditions that require immediate assistance to the patient. Common symptoms include Headache or “pressure” in head, nausea or vomiting, balance problems or dizziness, or double or blurry vision,bothered by light or noise, feeling sluggish, hazy, foggy, or groggy,confusion, or concentration or memory problems"
+	},
+	
+	  {
+		"main category":"3.13",
+		"question":"I feel warm",
+		"answer":"Take ample rest and drink plenty of fluids. Consider taking over the counter Acetamenophin/Paracetamols to alleviate your symptoms.Incase the fever does not go away after three days Please see a doctor. "
+	  },
+	 
+	
+	  {
+		"main category":"3.3",
+		"question":" What are symptoms of abnormal sugar level?",
+		"answer":"You would experience increased thirst and a dry mouth, needing to pee frequently, tiredness, blurred vision, unintentional weight loss, recurrent infections, such as thrush, bladder infections (cystitis) and skin infections. Get your sugar level checked.A fasting blood sugar of 99 mg/dl or lower is normal,100 to 125 mg/dl indicates you have prediabetes and 126 mg/dL or higher indicates you have diabetes. Follow these steps to improve your health: Change your diet – for example, you may be advised to avoid foods that cause your blood sugar levels to rise, such as cakes or sugary drinks. Drink plenty of sugar-free fluids – this can help if you're dehydrated. Exercise more often – gentle, regular exercise such as walking can often lower your blood sugar level, particularly if it helps you lose weight."
+	  },
+	
+	  {
+		"main category":"3.4",
+		"question":"What foods can I eat, if I have high blood sugar?",
+		"answer":" These are some foods which we recommend having when you have high blood sugar: Eggs, Broccoli and broccoli sprouts, Pumpkin and pumpkin seeds, Beans and lentils, Nuts and nut butter, Berries, Avocados, oats and oat bran"
+	  },
+	
+	  {
+		"main category":"3.5",
+		"question":"What are some ways to better your cholestrol level? ",
+		"answer":"Eating a heart-healthy diet. Reducing these fats means limiting your intake of red meat and dairy products made with whole milk. Choose skim milk, low-fat or fat-free dairy products instead. It also means limiting fried food and cooking with healthy oils, such as vegetable oil. A heart-healthy diet emphasizes fruits, vegetables, whole grains, poultry, fish, nuts and nontropical vegetable oils, while limiting red and processed meats, sodium and sugar-sweetened foods and beverages."
+	  },
+	
+	  {
+		"main category":"3.6",
+		"question":"I am feeling restless",
+		"answer":"Take a break. Focus on your breathing. Listen to music. Spend some time in nature. Try active relaxation. Think of somewhere else. Meditate. All these things should help you calm your mind."
+	  },
+	
+	  {
+		"main category":"3.7",
+		"question":"What are symptoms of low blood pressure?",
+		"answer":"Blood pressure levels lower than 120/80 mmHg are considered normal. There is no specific number at which blood pressure is considered too low, unless you experience signs and symptoms such as: nausea, fainting, lack of concentration, feeling light-headed or dizzy, dehydration or unusual thirst."
+	  },
+	
+	  {
+		"main category":"3.8",
+		"question":"What are the symptoms of high blood pressure?",
+		"answer":"Signs and symptoms of high blood pressure may include: dizziness, headaches, vision problems, shortness of breath."
+	  },
+	
+	  {
+		"main category":"3.9",
+		"question":"I feel a sharp pain in my chest.",
+		"answer":"The most common heart problems that cause chest pain include: pericarditis which usually causes a sudden, sharp, stabbing pain that gets worse when you breathe deeply or lie down, angina or a heart attack – which have similar symptoms but a heart attack is life-threatening. You should see a doctor if spreading your arms, back, neck or jaw makes your chest feel tight or heavy."
+	  },
+	
+	  {
+		"main category":"1.8",
+		"question":"I feel a sharp pain in my right abdomen.",
+		"answer":"Pain in lower right abdomen can often occur because of muscular tortions. If pain doesnt subside even after applying analgesic. Conditions involve: appendicitis, hernia, indigestion, or even gas. Consult a doctor or call 911 if pain persists or gets unbearable."
+	  },
+	  {
+		"main_category":"good_morning_1 ",
+		"question":"Good morning",
+		"answer":"Good morning to you too! How may I assist you?"
+	  },
+	
+	  {
+		"main_category":"good_morning_2 ",
+		"question":"good morning ",
+		"answer":"Pleasant morning!"
+	  },
+	
+	  {
+		"main_category":"good_afternoon_1",
+		"question":"Good afternoon",
+		"answer":"Good afternoon to you too! How may I assist you?"
+	  },
+	
+	  {
+		"main_category":"good_evening_1",
+		"question":"good evening",
+		"answer":"Good evening to you too! How may I assist you?"
+	  },
+	
+	  {
+		"main_category":"greetings_hello_1.1",
+		"question":"hi",
+		"answer":"Hi there! How are you doing?"
+	  },
+	
+	  {
+		"main_category":"greetings_hello_1.2",
+		"question":"I'm doing good",
+		"answer":"Sounds great! How may I assist you?"
+	  },
+	
+	  {
+		"main_category":"how_are_you_1",
+		"question":"How are you doing?",
+		"answer":"Oh never better! How may I assist you today?"
+	  },
+	
+	  {
+		"main_category":"whats_up",
+		"question":"Whats up",
+		"answer":"Oh the sky XD Anyway, how can I help?"
+	  },
+	
+	  {
+		"main_category":"What_are_you_doing",
+		"question":"What are you doing?",
+		"answer":"Ah, trying to help! What can I do?"
+	  },
+	  
+	  {
+		"main question":"What_can_you_do",
+		"question":"What can you do",
+		"answer":"I am a ChatBot, in order to help you regarding queries on the novel Coronavirus. I can also talk with you and answer various other questions"
+	  },
+	  {
+		"main question":"What_do_you_do",
+		"question":"What do you do",
+		"answer":"My objective is to help and provide assistance on Covid-19! I am also capable of answering your other queries on few other topics."
+	  }
+	
+	
+  ]
+	
